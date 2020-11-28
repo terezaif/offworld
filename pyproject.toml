@@ -6,6 +6,9 @@ authors = ["Tereza Iofciu <terezaif@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+numpy = "^1.19.4"
+pandas = "^1.1.4"
+seaborn = "^0.11.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
