@@ -14,3 +14,8 @@ Looking at atmospheric data
 `make setup`
 
 `make test`
+
+
+## Datasources
+
+- Our world in data](https://ourworldindata.org/co2-emissions#co2-emissions-by-region)
